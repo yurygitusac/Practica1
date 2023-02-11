@@ -73,8 +73,8 @@ public class Practica1 {
     
     public static void IngresoUsuario(){
         
-        String user = "123";
-        String pass = "123";
+        String user = "cajero_202113318";
+        String pass = "ipc1_202113318";
         boolean acceso = false;
         
         while (!acceso){
